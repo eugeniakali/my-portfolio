@@ -7,3 +7,7 @@ This is my professional portfolio
 
 Git and GitHub
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
